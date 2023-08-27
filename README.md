@@ -12,9 +12,6 @@ I am passionate about acquiring, processing, and analyzing all kinds of data set
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hakameikito&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakameikito&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Hakameikito&icon=0&color=6)](https://visitcount.itsvg.in)
 
